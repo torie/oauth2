@@ -126,6 +126,7 @@ var brokenAuthHeaderProviders = []string{
 	"https://api.sipgate.com/v1/authorization/oauth",
 	"https://api.medium.com/v1/tokens",
 	"https://log.finalsurge.com/oauth/token",
+	"https://api.sbanken.no/identityserver/connect/token",
 }
 
 // brokenAuthHeaderDomains lists broken providers that issue dynamic endpoints.
